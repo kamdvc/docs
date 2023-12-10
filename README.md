@@ -22,7 +22,7 @@ ScribbleLab is a powerful text editor built by students, for students, written e
 
 If you are new to the development of ScribbleLab or would like to become familiar with the basics of creating and publishing Add-Ons for ScribbleLab, we highly recommend reading our Getting Started page. To learn more about building different specific types of extensions, see the Guides section. For those wanting to jump right in and browse the exposed functionality, visit the API section.
 
-### LICNESE
+### LICENSE
 ScribbleLab's documentation has two Licenses:
 - [LICENSE for the documentation](LICENSE) (CC0 1.0 Universal)
 - [LICENSE for the code & Samples](LICENSE-CODE) (Apache 2.0)
