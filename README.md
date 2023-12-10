@@ -24,5 +24,5 @@ If you are new to the development of ScribbleLab or would like to become familia
 
 ### LICNESE
 ScribbleLab's documentation has two Licenses:
-- [LICENSE for the documentation](LICENSE)
+- [LICENSE for the documentation](LICENSE) (CC0 1.0 Universal)
 - [LICENSE for the code & Samples](LICENSE-CODE) (Apache 2.0)
